@@ -1,7 +1,7 @@
 # Data-for-potential-for-biofilm-formation-is-widespread-and-influenced-by-environment-across-US-soils
 Bash script, R script, and supplementary tables for "Potential for biofilm formation is widespread and influenced by precipitation variability and environmental extremes across US soils"
 
-# Folder: Tables
+# Folder: Supplementary Tables
 
 Table S1. Sample metadata.
 
