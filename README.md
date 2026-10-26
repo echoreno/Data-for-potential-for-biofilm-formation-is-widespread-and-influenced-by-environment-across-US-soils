@@ -100,7 +100,7 @@ The processing steps are designed for execution on an HPC cluster using SLURM. S
 
 **Description:**
 
-This R script processes raw metagenomic gene abundance data to quantify and summarize the abundance of biofilm-associated genes, both overall and by pathway, across samples. It then evaluates the influence of environmental predictors on biofilm-associated gene abundance at the overall, pathway, and individual KO levels.
+This R script processes raw metagenomic gene abundance data from 112 samples (retained from 119 initially processed) to quantify and summarize the abundance of biofilm-associated genes, both overall and by pathway, across samples. It then evaluates the influence of environmental predictors on biofilm-associated gene abundance at the overall, pathway, and individual KO levels.
 
 **Inputs:**
 
