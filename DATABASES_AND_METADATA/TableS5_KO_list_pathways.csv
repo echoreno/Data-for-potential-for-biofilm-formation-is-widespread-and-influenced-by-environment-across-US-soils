@@ -1,0 +1,2532 @@
+﻿KO,pathway
+K00001,BBSdb
+K00002,BBSdb
+K00009,BBSdb
+K00013,BBSdb
+K00014,BBSdb
+K00016,BBSdb
+K00024,BBSdb
+K00027,two_component_system
+K00031,BBSdb
+K00033,BBSdb
+K00052,BBSdb
+K00053,BBSdb
+K00057,BBSdb
+K00059,BBSdb
+K00066,two_component_system; BBSdb
+K00075,BBSdb
+K00088,BBSdb
+K00093,BBSdb
+K00094,BBSdb
+K00108,BBSdb
+K00111,BBSdb
+K00145,BBSdb
+K00161,BBSdb
+K00163,BBSdb
+K00226,BBSdb
+K00244,two_component_system
+K00245,two_component_system
+K00246,two_component_system
+K00247,two_component_system
+K00254,BBSdb
+K00259,BBSdb
+K00283,BBSdb
+K00286,BBSdb
+K00364,BBSdb
+K00370,two_component_system; BBSdb
+K00371,two_component_system
+K00373,two_component_system
+K00374,two_component_system
+K00381,BBSdb
+K00404,two_component_system
+K00405,two_component_system
+K00406,two_component_system
+K00407,two_component_system
+K00410,two_component_system
+K00411,two_component_system
+K00412,two_component_system
+K00413,two_component_system
+K00424,two_component_system
+K00425,two_component_system
+K00426,two_component_system
+K00432,BBSdb
+K00494,two_component_system
+K00494,quorum_sensing
+K00514,BBSdb
+K00520,BBSdb
+K00543,polysac_eps
+K00549,BBSdb
+K00554,BBSdb
+K00566,BBSdb
+K00575,two_component_system
+K00575,chemotaxis
+K00577,BBSdb
+K00602,BBSdb
+K00605,BBSdb
+K00611,BBSdb
+K00626,two_component_system
+K00640,polysac_eps; BBSdb
+K00640,biofilm_formation
+K00648,BBSdb
+K00688,biofilm_formation
+K00689,two_component_system
+K00692,two_component_system
+K00694,BBSdb
+K00694,biofilm_formation
+K00703,biofilm_formation
+K00752,BBSdb
+K00756,BBSdb
+K00759,BBSdb
+K00760,BBSdb
+K00761,BBSdb
+K00762,BBSdb
+K00764,BBSdb
+K00766,BBSdb
+K00773,BBSdb
+K00784,BBSdb
+K00788,BBSdb
+K00794,BBSdb
+K00797,BBSdb
+K00800,BBSdb
+K00806,BBSdb
+K00817,BBSdb
+K00818,BBSdb
+K00820,BBSdb
+K00821,BBSdb
+K00826,BBSdb
+K00850,BBSdb
+K00852,BBSdb
+K00853,BBSdb
+K00854,BBSdb
+K00868,BBSdb
+K00872,BBSdb
+K00873,BBSdb
+K00876,BBSdb
+K00878,BBSdb
+K00891,BBSdb
+K00897,BBSdb
+K00919,BBSdb
+K00927,BBSdb
+K00930,BBSdb
+K00939,BBSdb
+K00940,BBSdb
+K00943,BBSdb
+K00945,BBSdb
+K00948,BBSdb
+K00951,BBSdb
+K00958,BBSdb
+K00962,BBSdb
+K00963,BBSdb
+K00969,BBSdb
+K00974,BBSdb
+K00975,biofilm_formation
+K00981,BBSdb
+K00990,two_component_system
+K00995,BBSdb
+K01000,BBSdb
+K01004,BBSdb
+K01034,two_component_system
+K01035,two_component_system
+K01046,BBSdb
+K01051,two_component_system
+K01056,BBSdb
+K01077,two_component_system
+K01089,BBSdb
+K01092,BBSdb
+K01113,two_component_system
+K01114,quorum_sensing
+K01139,BBSdb
+K01150,BBSdb
+K01151,BBSdb
+K01153,BBSdb
+K01170,BBSdb
+K01179,two_component_system
+K01218,quorum_sensing
+K01220,BBSdb
+K01243,BBSdb
+K01252,BBSdb
+K01258,BBSdb
+K01265,BBSdb
+K01304,BBSdb
+K01318,quorum_sensing
+K01338,BBSdb
+K01356,BBSdb
+K01358,BBSdb
+K01364,quorum_sensing
+K01399,BBSdb
+K01399,quorum_sensing
+K01401,BBSdb
+K01419,BBSdb
+K01424,BBSdb
+K01425,two_component_system
+K01428,BBSdb
+K01429,BBSdb
+K01430,BBSdb
+K01439,BBSdb
+K01462,BBSdb
+K01465,BBSdb
+K01467,two_component_system
+K01478,BBSdb
+K01496,BBSdb
+K01497,quorum_sensing
+K01533,BBSdb
+K01545,two_component_system
+K01546,two_component_system; BBSdb
+K01547,two_component_system; BBSdb
+K01548,two_component_system
+K01575,BBSdb
+K01579,BBSdb
+K01580,quorum_sensing
+K01596,BBSdb
+K01599,BBSdb
+K01610,BBSdb
+K01626,quorum_sensing
+K01633,BBSdb
+K01635,BBSdb
+K01635,quorum_sensing
+K01638,BBSdb
+K01643,two_component_system
+K01644,two_component_system
+K01646,two_component_system
+K01649,BBSdb
+K01657,biofilm_formation; quorum_sensing
+K01658,biofilm_formation; quorum_sensing
+K01659,BBSdb
+K01661,BBSdb
+K01679,BBSdb
+K01687,BBSdb
+K01689,BBSdb
+K01693,BBSdb
+K01696,BBSdb
+K01698,BBSdb
+K01703,BBSdb
+K01714,BBSdb
+K01728,quorum_sensing
+K01735,BBSdb
+K01736,BBSdb
+K01738,BBSdb
+K01745,BBSdb
+K01749,BBSdb
+K01754,BBSdb
+K01756,BBSdb
+K01768,biofilm_formation
+K01776,BBSdb
+K01784,BBSdb
+K01791,two_component_system
+K01791,biofilm_formation
+K01803,BBSdb
+K01810,BBSdb
+K01814,BBSdb
+K01819,BBSdb
+K01839,BBSdb
+K01846,BBSdb
+K01867,BBSdb
+K01868,BBSdb
+K01869,BBSdb
+K01870,BBSdb
+K01872,BBSdb
+K01873,BBSdb
+K01874,BBSdb
+K01875,BBSdb
+K01876,BBSdb
+K01881,BBSdb
+K01883,BBSdb
+K01885,BBSdb
+K01887,BBSdb
+K01889,BBSdb
+K01890,BBSdb
+K01892,BBSdb
+K01897,BBSdb
+K01897,quorum_sensing
+K01902,BBSdb
+K01903,BBSdb
+K01910,two_component_system
+K01911,BBSdb
+K01912,biofilm_formation
+K01915,two_component_system; BBSdb
+K01916,BBSdb
+K01918,BBSdb
+K01921,BBSdb
+K01924,BBSdb
+K01925,BBSdb
+K01926,BBSdb
+K01933,BBSdb
+K01937,BBSdb
+K01938,BBSdb
+K01939,BBSdb
+K01940,BBSdb
+K01945,BBSdb
+K01950,BBSdb
+K01951,BBSdb
+K01952,BBSdb
+K01955,BBSdb
+K01956,BBSdb
+K01962,BBSdb
+K01963,BBSdb
+K01972,BBSdb
+K01991,two_component_system
+K01991,biofilm_formation
+K01995,abc_transporters
+K01995,quorum_sensing
+K01996,abc_transporters
+K01996,quorum_sensing
+K01997,abc_transporters
+K01997,quorum_sensing
+K01998,abc_transporters
+K01998,quorum_sensing
+K01999,abc_transporters
+K01999,quorum_sensing
+K02000,abc_transporters
+K02001,abc_transporters
+K02002,abc_transporters
+K02006,abc_transporters; BBSdb
+K02007,abc_transporters
+K02008,abc_transporters
+K02009,abc_transporters
+K02010,abc_transporters
+K02011,abc_transporters
+K02012,abc_transporters
+K02017,abc_transporters
+K02018,abc_transporters
+K02020,abc_transporters
+K02031,quorum_sensing
+K02032,quorum_sensing
+K02033,quorum_sensing
+K02034,quorum_sensing
+K02035,quorum_sensing
+K02036,abc_transporters
+K02037,abc_transporters
+K02038,abc_transporters
+K02039,BBSdb
+K02040,abc_transporters; two_component_system; BBSdb
+K02041,abc_transporters
+K02042,abc_transporters
+K02044,abc_transporters
+K02045,abc_transporters
+K02046,abc_transporters
+K02047,abc_transporters
+K02048,abc_transporters
+K02052,quorum_sensing
+K02053,quorum_sensing
+K02054,quorum_sensing
+K02055,quorum_sensing
+K02062,abc_transporters
+K02063,abc_transporters
+K02064,abc_transporters
+K02065,abc_transporters
+K02066,abc_transporters
+K02067,abc_transporters
+K02071,abc_transporters
+K02072,abc_transporters
+K02073,abc_transporters
+K02076,BBSdb
+K02106,two_component_system
+K02107,BBSdb
+K02108,BBSdb
+K02109,BBSdb
+K02110,BBSdb
+K02111,BBSdb
+K02112,BBSdb
+K02113,BBSdb
+K02114,BBSdb
+K02117,BBSdb
+K02118,BBSdb
+K02119,BBSdb
+K02120,BBSdb
+K02121,BBSdb
+K02122,BBSdb
+K02171,BBSdb
+K02192,BBSdb
+K02193,abc_transporters
+K02194,abc_transporters
+K02195,abc_transporters
+K02196,abc_transporters
+K02236,BBSdb
+K02239,BBSdb
+K02250,BBSdb
+K02250,quorum_sensing
+K02251,quorum_sensing
+K02252,two_component_system
+K02252,quorum_sensing
+K02253,two_component_system
+K02253,quorum_sensing
+K02257,BBSdb
+K02259,two_component_system; BBSdb
+K02279,two_component_system
+K02280,two_component_system
+K02282,two_component_system
+K02283,two_component_system
+K02293,BBSdb
+K02313,two_component_system
+K02316,BBSdb
+K02322,BBSdb
+K02323,BBSdb
+K02336,BBSdb
+K02337,BBSdb
+K02338,BBSdb
+K02346,BBSdb
+K02355,BBSdb
+K02357,BBSdb
+K02358,BBSdb
+K02372,BBSdb
+K02379,BBSdb
+K02386,flagellar_assembly
+K02387,flagellar_assembly
+K02388,flagellar_assembly
+K02389,flagellar_assembly
+K02390,BBSdb
+K02390,flagellar_assembly
+K02391,flagellar_assembly
+K02392,BBSdb
+K02392,flagellar_assembly
+K02393,flagellar_assembly
+K02394,flagellar_assembly
+K02395,flagellar_assembly
+K02396,BBSdb
+K02396,flagellar_assembly
+K02397,flagellar_assembly
+K02398,two_component_system
+K02398,biofilm_formation; biofilm_formation; flagellar_assembly
+K02399,flagellar_assembly
+K02400,flagellar_assembly
+K02401,flagellar_assembly
+K02402,two_component_system
+K02402,biofilm_formation; flagellar_assembly; quorum_sensing
+K02403,two_component_system
+K02403,biofilm_formation; flagellar_assembly; quorum_sensing
+K02405,two_component_system
+K02405,biofilm_formation; biofilm_formation; biofilm_formation; flagellar_assembly
+K02406,two_component_system; BBSdb
+K02406,flagellar_assembly
+K02407,flagellar_assembly
+K02408,flagellar_assembly
+K02409,flagellar_assembly
+K02410,chemotaxis; flagellar_assembly
+K02411,flagellar_assembly
+K02412,flagellar_assembly
+K02413,flagellar_assembly
+K02414,flagellar_assembly
+K02415,flagellar_assembly
+K02416,chemotaxis; flagellar_assembly
+K02417,chemotaxis; flagellar_assembly
+K02418,BBSdb
+K02418,flagellar_assembly
+K02419,BBSdb
+K02419,flagellar_assembly
+K02420,flagellar_assembly
+K02421,flagellar_assembly
+K02422,flagellar_assembly
+K02423,flagellar_assembly
+K02424,abc_transporters
+K02424,flagellar_assembly
+K02425,BBSdb
+K02425,biofilm_formation; flagellar_assembly
+K02434,BBSdb
+K02437,BBSdb
+K02451,BBSdb
+K02452,biofilm_formation
+K02453,biofilm_formation
+K02454,biofilm_formation
+K02455,biofilm_formation
+K02456,biofilm_formation
+K02457,biofilm_formation
+K02458,biofilm_formation
+K02459,biofilm_formation
+K02460,biofilm_formation
+K02461,biofilm_formation
+K02462,biofilm_formation
+K02463,biofilm_formation
+K02469,BBSdb
+K02470,BBSdb
+K02471,abc_transporters
+K02472,two_component_system
+K02472,biofilm_formation
+K02473,BBSdb
+K02481,BBSdb
+K02482,BBSdb
+K02483,BBSdb
+K02484,BBSdb
+K02488,two_component_system
+K02489,two_component_system
+K02490,two_component_system
+K02490,quorum_sensing
+K02491,two_component_system
+K02492,BBSdb
+K02501,BBSdb
+K02502,BBSdb
+K02518,BBSdb
+K02519,BBSdb
+K02520,BBSdb
+K02521,BBSdb
+K02536,BBSdb
+K02545,BBSdb
+K02551,BBSdb
+K02553,BBSdb
+K02556,two_component_system
+K02556,chemotaxis; flagellar_assembly
+K02557,chemotaxis; flagellar_assembly
+K02562,BBSdb
+K02566,BBSdb
+K02584,two_component_system
+K02601,BBSdb
+K02622,BBSdb
+K02650,two_component_system; BBSdb
+K02651,two_component_system; BBSdb
+K02652,BBSdb
+K02653,BBSdb
+K02655,BBSdb
+K02656,BBSdb
+K02657,two_component_system; BBSdb
+K02657,biofilm_formation
+K02658,two_component_system
+K02658,biofilm_formation
+K02659,two_component_system
+K02659,biofilm_formation
+K02660,two_component_system
+K02660,biofilm_formation
+K02661,two_component_system
+K02662,BBSdb
+K02663,BBSdb
+K02664,BBSdb
+K02665,BBSdb
+K02667,two_component_system; BBSdb
+K02668,two_component_system; BBSdb
+K02669,BBSdb
+K02670,BBSdb
+K02676,BBSdb
+K02687,BBSdb
+K02774,BBSdb
+K02777,BBSdb
+K02777,biofilm_formation; biofilm_formation
+K02779,BBSdb
+K02779,biofilm_formation
+K02784,BBSdb
+K02786,BBSdb
+K02788,BBSdb
+K02810,BBSdb
+K02826,BBSdb
+K02828,BBSdb
+K02829,BBSdb
+K02834,BBSdb
+K02835,BBSdb
+K02836,BBSdb
+K02837,BBSdb
+K02838,BBSdb
+K02847,BBSdb
+K02851,polysac_eps
+K02852,polysac_eps
+K02863,BBSdb
+K02867,BBSdb
+K02876,BBSdb
+K02878,BBSdb
+K02881,BBSdb
+K02886,BBSdb
+K02887,BBSdb
+K02888,BBSdb
+K02890,BBSdb
+K02892,BBSdb
+K02895,BBSdb
+K02897,BBSdb
+K02902,BBSdb
+K02904,BBSdb
+K02906,BBSdb
+K02907,BBSdb
+K02911,BBSdb
+K02914,BBSdb
+K02919,BBSdb
+K02933,BBSdb
+K02935,BBSdb
+K02939,BBSdb
+K02944,BBSdb
+K02945,BBSdb
+K02948,BBSdb
+K02950,BBSdb
+K02954,BBSdb
+K02956,BBSdb
+K02959,BBSdb
+K02961,BBSdb
+K02963,BBSdb
+K02965,BBSdb
+K02967,BBSdb
+K02968,BBSdb
+K02970,BBSdb
+K02982,BBSdb
+K02988,BBSdb
+K02990,BBSdb
+K02996,BBSdb
+K03040,BBSdb
+K03043,BBSdb
+K03046,BBSdb
+K03048,BBSdb
+K03060,BBSdb
+K03070,quorum_sensing
+K03071,quorum_sensing
+K03073,BBSdb
+K03073,quorum_sensing
+K03075,BBSdb
+K03075,quorum_sensing
+K03076,quorum_sensing
+K03086,flagellar_assembly
+K03087,BBSdb
+K03087,biofilm_formation; biofilm_formation
+K03088,BBSdb
+K03092,two_component_system
+K03092,biofilm_formation; flagellar_assembly
+K03101,BBSdb
+K03106,quorum_sensing
+K03110,quorum_sensing
+K03116,BBSdb
+K03117,BBSdb
+K03118,BBSdb
+K03149,BBSdb
+K03151,BBSdb
+K03168,BBSdb
+K03169,BBSdb
+K03177,BBSdb
+K03187,BBSdb
+K03188,BBSdb
+K03189,BBSdb
+K03190,BBSdb
+K03208,polysac_eps
+K03210,quorum_sensing
+K03217,quorum_sensing
+K03303,BBSdb
+K03322,BBSdb
+K03325,BBSdb
+K03367,two_component_system; BBSdb
+K03386,BBSdb
+K03387,BBSdb
+K03400,two_component_system
+K03400,quorum_sensing
+K03406,two_component_system
+K03406,chemotaxis
+K03407,two_component_system
+K03407,chemotaxis
+K03408,two_component_system
+K03408,chemotaxis
+K03409,chemotaxis
+K03410,chemotaxis
+K03411,chemotaxis
+K03412,two_component_system
+K03412,chemotaxis
+K03413,two_component_system; BBSdb
+K03413,chemotaxis
+K03414,chemotaxis
+K03415,two_component_system
+K03415,chemotaxis
+K03429,BBSdb
+K03431,BBSdb
+K03438,BBSdb
+K03439,BBSdb
+K03446,BBSdb
+K03466,BBSdb
+K03470,BBSdb
+K03471,BBSdb
+K03483,BBSdb
+K03495,BBSdb
+K03501,BBSdb
+K03516,flagellar_assembly
+K03523,abc_transporters
+K03531,BBSdb
+K03532,two_component_system
+K03533,two_component_system
+K03543,BBSdb
+K03545,BBSdb
+K03546,BBSdb
+K03547,BBSdb
+K03550,BBSdb
+K03553,BBSdb
+K03555,BBSdb
+K03557,BBSdb
+K03557,biofilm_formation
+K03563,two_component_system; BBSdb
+K03563,biofilm_formation; biofilm_formation; biofilm_formation
+K03566,biofilm_formation
+K03567,biofilm_formation
+K03572,BBSdb
+K03576,BBSdb
+K03584,BBSdb
+K03587,BBSdb
+K03590,BBSdb
+K03595,BBSdb
+K03596,BBSdb
+K03601,BBSdb
+K03602,BBSdb
+K03606,polysac_eps
+K03606,biofilm_formation
+K03620,two_component_system
+K03621,BBSdb
+K03625,BBSdb
+K03629,BBSdb
+K03637,BBSdb
+K03638,BBSdb
+K03639,BBSdb
+K03644,BBSdb
+K03645,BBSdb
+K03646,BBSdb
+K03647,BBSdb
+K03650,BBSdb
+K03651,biofilm_formation
+K03655,BBSdb
+K03657,BBSdb
+K03664,BBSdb
+K03666,biofilm_formation; quorum_sensing
+K03667,BBSdb
+K03673,BBSdb
+K03685,BBSdb
+K03686,BBSdb
+K03695,BBSdb
+K03696,BBSdb
+K03700,BBSdb
+K03701,BBSdb
+K03702,BBSdb
+K03703,BBSdb
+K03704,BBSdb
+K03706,BBSdb
+K03708,BBSdb
+K03711,BBSdb
+K03712,BBSdb
+K03716,BBSdb
+K03718,BBSdb
+K03721,BBSdb
+K03722,BBSdb
+K03723,BBSdb
+K03733,BBSdb
+K03739,two_component_system
+K03740,two_component_system
+K03746,BBSdb
+K03750,BBSdb
+K03752,BBSdb
+K03763,BBSdb
+K03776,two_component_system
+K03776,chemotaxis
+K03781,BBSdb
+K03788,BBSdb
+K03798,BBSdb
+K03803,BBSdb
+K03818,polysac_eps
+K03819,polysac_eps
+K03832,BBSdb
+K03841,BBSdb
+K03856,BBSdb
+K03892,BBSdb
+K03893,BBSdb
+K03925,BBSdb
+K03930,BBSdb
+K03977,BBSdb
+K03978,BBSdb
+K04042,BBSdb
+K04043,BBSdb
+K04075,BBSdb
+K04077,BBSdb
+K04078,BBSdb
+K04080,BBSdb
+K04083,BBSdb
+K04086,BBSdb
+K04094,BBSdb
+K04100,BBSdb
+K04333,BBSdb
+K04333,biofilm_formation
+K04334,BBSdb
+K04334,biofilm_formation
+K04335,biofilm_formation
+K04336,biofilm_formation
+K04338,BBSdb
+K04516,BBSdb
+K04561,BBSdb
+K04567,BBSdb
+K04691,BBSdb
+K04749,BBSdb
+K04751,two_component_system
+K04753,BBSdb
+K04757,BBSdb
+K04759,BBSdb
+K04761,BBSdb
+K04761,biofilm_formation
+K04771,two_component_system
+K04772,BBSdb
+K05031,abc_transporters
+K05032,abc_transporters
+K05033,abc_transporters
+K05338,two_component_system; BBSdb
+K05339,two_component_system; BBSdb
+K05340,BBSdb
+K05349,BBSdb
+K05365,BBSdb
+K05366,BBSdb
+K05367,BBSdb
+K05527,BBSdb
+K05592,BBSdb
+K05597,two_component_system; BBSdb
+K05601,BBSdb
+K05641,abc_transporters
+K05642,abc_transporters
+K05643,abc_transporters
+K05644,abc_transporters
+K05645,abc_transporters
+K05646,abc_transporters
+K05647,abc_transporters
+K05648,abc_transporters
+K05649,abc_transporters
+K05650,abc_transporters
+K05651,abc_transporters
+K05652,abc_transporters
+K05653,abc_transporters
+K05654,abc_transporters
+K05655,abc_transporters
+K05656,abc_transporters
+K05657,abc_transporters
+K05658,abc_transporters
+K05659,abc_transporters
+K05660,abc_transporters
+K05661,abc_transporters
+K05662,abc_transporters
+K05664,abc_transporters
+K05665,abc_transporters
+K05666,abc_transporters
+K05667,abc_transporters
+K05668,abc_transporters
+K05669,abc_transporters
+K05670,abc_transporters
+K05671,abc_transporters
+K05672,abc_transporters
+K05673,abc_transporters
+K05674,abc_transporters
+K05675,abc_transporters
+K05676,abc_transporters
+K05677,abc_transporters
+K05678,abc_transporters
+K05679,abc_transporters
+K05680,abc_transporters
+K05681,abc_transporters
+K05682,abc_transporters
+K05683,abc_transporters
+K05684,abc_transporters
+K05685,abc_transporters
+K05712,BBSdb
+K05713,BBSdb
+K05772,abc_transporters
+K05773,abc_transporters
+K05776,abc_transporters
+K05785,BBSdb
+K05801,BBSdb
+K05808,BBSdb
+K05813,abc_transporters
+K05814,abc_transporters
+K05815,abc_transporters
+K05816,abc_transporters
+K05828,BBSdb
+K05829,BBSdb
+K05830,BBSdb
+K05839,BBSdb
+K05845,abc_transporters
+K05846,abc_transporters
+K05847,abc_transporters
+K05851,biofilm_formation; biofilm_formation
+K05874,two_component_system
+K05874,chemotaxis
+K05875,two_component_system
+K05875,chemotaxis
+K05876,two_component_system
+K05876,chemotaxis
+K05877,two_component_system
+K05877,chemotaxis
+K05884,BBSdb
+K05896,BBSdb
+K05946,BBSdb
+K05964,two_component_system
+K05966,two_component_system
+K05988,BBSdb
+K06001,BBSdb
+K06024,BBSdb
+K06046,two_component_system
+K06046,quorum_sensing
+K06073,abc_transporters
+K06074,abc_transporters
+K06075,BBSdb
+K06079,BBSdb
+K06080,two_component_system
+K06159,abc_transporters
+K06160,abc_transporters
+K06161,abc_transporters
+K06168,BBSdb
+K06173,BBSdb
+K06187,BBSdb
+K06196,BBSdb
+K06204,BBSdb
+K06204,biofilm_formation
+K06218,BBSdb
+K06281,two_component_system
+K06282,two_component_system; BBSdb
+K06286,BBSdb
+K06336,BBSdb
+K06347,two_component_system
+K06349,BBSdb
+K06351,BBSdb
+K06352,quorum_sensing
+K06353,quorum_sensing
+K06354,quorum_sensing
+K06355,quorum_sensing
+K06356,quorum_sensing
+K06358,quorum_sensing
+K06359,quorum_sensing
+K06360,quorum_sensing
+K06361,quorum_sensing
+K06363,quorum_sensing
+K06364,quorum_sensing
+K06365,quorum_sensing
+K06366,quorum_sensing
+K06369,quorum_sensing
+K06372,BBSdb
+K06375,two_component_system
+K06375,quorum_sensing
+K06518,BBSdb
+K06596,two_component_system
+K06596,biofilm_formation
+K06597,two_component_system
+K06598,two_component_system
+K06598,biofilm_formation
+K06608,BBSdb
+K06726,abc_transporters
+K06857,abc_transporters
+K06858,abc_transporters
+K06861,abc_transporters
+K06916,BBSdb
+K06920,BBSdb
+K06941,BBSdb
+K06965,BBSdb
+K06998,quorum_sensing
+K07009,BBSdb
+K07012,BBSdb
+K07043,BBSdb
+K07091,abc_transporters
+K07094,BBSdb
+K07106,BBSdb
+K07116,BBSdb
+K07122,abc_transporters
+K07145,BBSdb
+K07154,BBSdb
+K07165,two_component_system
+K07171,BBSdb
+K07172,BBSdb
+K07173,BBSdb
+K07173,biofilm_formation; biofilm_formation; quorum_sensing
+K07181,BBSdb
+K07181,biofilm_formation
+K07213,BBSdb
+K07233,BBSdb
+K07248,BBSdb
+K07258,BBSdb
+K07260,two_component_system
+K07266,BBSdb
+K07277,BBSdb
+K07279,BBSdb
+K07282,BBSdb
+K07284,BBSdb
+K07322,BBSdb
+K07323,abc_transporters
+K07335,abc_transporters
+K07339,BBSdb
+K07342,BBSdb
+K07344,quorum_sensing
+K07345,BBSdb
+K07346,two_component_system; BBSdb
+K07347,two_component_system; BBSdb
+K07348,BBSdb
+K07349,BBSdb
+K07350,BBSdb
+K07351,BBSdb
+K07355,BBSdb
+K07356,BBSdb
+K07357,BBSdb
+K07358,BBSdb
+K07456,BBSdb
+K07473,BBSdb
+K07475,BBSdb
+K07533,BBSdb
+K07558,BBSdb
+K07560,BBSdb
+K07636,BBSdb; two_component_system
+K07637,BBSdb; two_component_system
+K07638,BBSdb; two_component_system
+K07638,biofilm_formation
+K07639,BBSdb; two_component_system
+K07640,BBSdb; two_component_system
+K07641,BBSdb; two_component_system
+K07642,BBSdb; two_component_system
+K07643,BBSdb; two_component_system
+K07644,BBSdb; two_component_system
+K07645,BBSdb; two_component_system
+K07645,quorum_sensing
+K07646,BBSdb; two_component_system
+K07647,BBSdb; two_component_system
+K07648,BBSdb; two_component_system
+K07648,biofilm_formation
+K07649,BBSdb; two_component_system
+K07650,BBSdb; two_component_system
+K07651,BBSdb; two_component_system
+K07652,BBSdb; two_component_system
+K07653,BBSdb; two_component_system
+K07654,BBSdb; two_component_system
+K07655,BBSdb; two_component_system
+K07656,BBSdb; two_component_system
+K07657,BBSdb; two_component_system
+K07658,BBSdb; two_component_system
+K07659,BBSdb; two_component_system
+K07659,biofilm_formation
+K07660,BBSdb; two_component_system
+K07661,BBSdb; two_component_system
+K07662,BBSdb; two_component_system
+K07663,BBSdb; two_component_system
+K07664,BBSdb; two_component_system
+K07665,BBSdb; two_component_system
+K07666,BBSdb; two_component_system
+K07666,quorum_sensing
+K07667,BBSdb; two_component_system
+K07667,quorum_sensing
+K07668,BBSdb; two_component_system
+K07669,BBSdb; two_component_system
+K07670,BBSdb; two_component_system
+K07671,BBSdb; two_component_system
+K07672,BBSdb; two_component_system
+K07673,two_component_system
+K07674,two_component_system
+K07675,two_component_system
+K07676,two_component_system; BBSdb
+K07676,biofilm_formation
+K07677,two_component_system; BBSdb
+K07677,biofilm_formation
+K07678,two_component_system; BBSdb
+K07678,biofilm_formation; biofilm_formation; biofilm_formation
+K07679,two_component_system
+K07680,two_component_system
+K07680,quorum_sensing
+K07681,two_component_system; BBSdb
+K07682,two_component_system
+K07683,two_component_system
+K07684,BBSdb; two_component_system
+K07685,two_component_system
+K07686,two_component_system
+K07687,BBSdb; two_component_system
+K07687,biofilm_formation
+K07688,two_component_system
+K07689,two_component_system; BBSdb
+K07689,biofilm_formation; biofilm_formation; biofilm_formation
+K07690,two_component_system
+K07691,two_component_system
+K07691,quorum_sensing
+K07692,two_component_system; BBSdb
+K07692,quorum_sensing
+K07693,two_component_system
+K07694,two_component_system
+K07695,two_component_system
+K07696,two_component_system; BBSdb
+K07697,two_component_system
+K07698,two_component_system
+K07699,two_component_system; BBSdb
+K07699,quorum_sensing
+K07700,two_component_system
+K07701,two_component_system
+K07702,two_component_system
+K07703,two_component_system
+K07704,two_component_system; BBSdb
+K07705,two_component_system; BBSdb
+K07706,BBSdb; two_component_system
+K07706,quorum_sensing
+K07707,two_component_system; BBSdb
+K07707,quorum_sensing
+K07708,BBSdb; two_component_system
+K07709,BBSdb; two_component_system
+K07710,BBSdb; two_component_system
+K07711,BBSdb; two_component_system
+K07711,quorum_sensing
+K07712,BBSdb; two_component_system
+K07713,BBSdb; two_component_system
+K07714,BBSdb; two_component_system
+K07715,BBSdb; two_component_system
+K07715,quorum_sensing
+K07716,two_component_system
+K07717,two_component_system
+K07718,two_component_system
+K07719,two_component_system
+K07720,two_component_system
+K07738,BBSdb
+K07768,BBSdb; two_component_system
+K07769,BBSdb; two_component_system
+K07770,BBSdb; two_component_system
+K07771,BBSdb; two_component_system
+K07772,BBSdb; two_component_system
+K07773,BBSdb; two_component_system
+K07773,biofilm_formation
+K07774,BBSdb; two_component_system
+K07775,BBSdb; two_component_system
+K07776,BBSdb; two_component_system
+K07777,two_component_system; BBSdb
+K07778,two_component_system
+K07780,two_component_system
+K07781,two_component_system
+K07781,biofilm_formation; quorum_sensing
+K07782,two_component_system; BBSdb
+K07782,biofilm_formation; quorum_sensing
+K07783,two_component_system
+K07784,two_component_system
+K07785,two_component_system
+K07786,two_component_system
+K07787,two_component_system
+K07788,two_component_system
+K07789,two_component_system
+K07790,two_component_system
+K07792,two_component_system
+K07793,two_component_system
+K07794,two_component_system
+K07796,two_component_system
+K07797,two_component_system
+K07798,two_component_system
+K07799,two_component_system
+K07800,two_component_system
+K07800,quorum_sensing
+K07801,two_component_system
+K07803,two_component_system
+K07804,two_component_system
+K07805,two_component_system
+K07806,two_component_system
+K07810,two_component_system
+K07811,two_component_system
+K07813,two_component_system
+K07813,quorum_sensing
+K08082,two_component_system
+K08083,two_component_system; BBSdb
+K08087,BBSdb
+K08170,BBSdb
+K08174,BBSdb
+K08177,two_component_system
+K08255,BBSdb
+K08258,BBSdb
+K08259,BBSdb
+K08321,quorum_sensing
+K08348,two_component_system
+K08349,two_component_system
+K08350,two_component_system
+K08357,two_component_system
+K08358,two_component_system
+K08359,two_component_system
+K08372,two_component_system
+K08475,BBSdb; two_component_system
+K08476,BBSdb; two_component_system
+K08477,two_component_system
+K08478,two_component_system
+K08479,BBSdb; two_component_system
+K08483,BBSdb
+K08591,BBSdb
+K08602,BBSdb
+K08604,biofilm_formation
+K08605,BBSdb
+K08605,quorum_sensing
+K08641,two_component_system
+K08642,quorum_sensing
+K08652,BBSdb
+K08677,BBSdb
+K08711,abc_transporters
+K08712,abc_transporters
+K08720,BBSdb
+K08720,biofilm_formation
+K08738,two_component_system
+K08777,quorum_sensing
+K08926,two_component_system
+K08927,two_component_system
+K08928,two_component_system
+K08929,two_component_system
+K08930,two_component_system
+K08939,two_component_system
+K08940,BBSdb
+K09065,BBSdb
+K09152,BBSdb
+K09253,BBSdb
+K09474,two_component_system
+K09475,BBSdb; two_component_system
+K09476,two_component_system
+K09477,two_component_system
+K09482,BBSdb
+K09502,BBSdb
+K09503,BBSdb
+K09504,BBSdb
+K09505,BBSdb
+K09506,BBSdb
+K09507,BBSdb
+K09508,BBSdb
+K09509,BBSdb
+K09510,BBSdb
+K09511,BBSdb
+K09512,BBSdb
+K09513,BBSdb
+K09514,BBSdb
+K09515,BBSdb
+K09517,BBSdb
+K09518,BBSdb
+K09519,BBSdb
+K09520,BBSdb
+K09521,BBSdb
+K09522,BBSdb
+K09523,BBSdb
+K09524,BBSdb
+K09525,BBSdb
+K09526,BBSdb
+K09527,BBSdb
+K09528,BBSdb
+K09529,BBSdb
+K09530,BBSdb
+K09531,BBSdb
+K09532,BBSdb
+K09533,BBSdb
+K09534,BBSdb
+K09535,BBSdb
+K09536,BBSdb
+K09537,BBSdb
+K09538,BBSdb
+K09539,BBSdb
+K09688,abc_transporters
+K09689,abc_transporters
+K09690,abc_transporters
+K09691,abc_transporters
+K09692,abc_transporters
+K09693,abc_transporters; BBSdb
+K09694,abc_transporters
+K09695,abc_transporters
+K09696,abc_transporters; two_component_system
+K09697,abc_transporters; two_component_system
+K09698,BBSdb
+K09748,BBSdb
+K09759,BBSdb
+K09769,BBSdb
+K09772,BBSdb
+K09777,BBSdb
+K09808,abc_transporters
+K09809,BBSdb
+K09810,abc_transporters
+K09811,abc_transporters
+K09812,abc_transporters
+K09813,abc_transporters; BBSdb
+K09814,abc_transporters; BBSdb
+K09815,abc_transporters
+K09816,abc_transporters
+K09817,abc_transporters
+K09823,BBSdb
+K09823,quorum_sensing
+K09825,BBSdb
+K09826,BBSdb
+K09860,flagellar_assembly
+K09903,BBSdb
+K09936,quorum_sensing
+K09969,abc_transporters
+K09970,abc_transporters
+K09971,abc_transporters
+K09972,abc_transporters
+K09996,abc_transporters
+K09997,abc_transporters
+K09998,abc_transporters
+K09999,abc_transporters
+K10000,abc_transporters
+K10001,abc_transporters; two_component_system
+K10002,abc_transporters; two_component_system
+K10003,abc_transporters; two_component_system
+K10004,abc_transporters; two_component_system
+K10005,abc_transporters
+K10006,abc_transporters
+K10007,abc_transporters; BBSdb
+K10008,abc_transporters
+K10009,abc_transporters
+K10010,abc_transporters
+K10013,abc_transporters
+K10014,abc_transporters
+K10015,abc_transporters
+K10016,abc_transporters
+K10017,abc_transporters
+K10018,abc_transporters
+K10019,abc_transporters
+K10020,abc_transporters
+K10021,abc_transporters
+K10022,abc_transporters
+K10023,abc_transporters
+K10024,abc_transporters
+K10025,abc_transporters
+K10036,abc_transporters
+K10037,abc_transporters; BBSdb
+K10038,abc_transporters
+K10039,abc_transporters
+K10040,abc_transporters; BBSdb
+K10041,abc_transporters
+K10094,abc_transporters
+K10107,abc_transporters
+K10108,abc_transporters
+K10108,chemotaxis
+K10109,abc_transporters
+K10110,abc_transporters
+K10111,abc_transporters
+K10112,abc_transporters
+K10117,abc_transporters
+K10118,abc_transporters
+K10119,abc_transporters
+K10125,BBSdb; two_component_system
+K10126,BBSdb; two_component_system
+K10188,abc_transporters; BBSdb
+K10189,abc_transporters; BBSdb
+K10190,abc_transporters; BBSdb
+K10191,abc_transporters
+K10192,abc_transporters
+K10193,abc_transporters
+K10194,abc_transporters
+K10195,abc_transporters
+K10196,abc_transporters
+K10197,abc_transporters
+K10198,abc_transporters; BBSdb
+K10199,abc_transporters
+K10200,abc_transporters
+K10201,abc_transporters
+K10202,abc_transporters
+K10208,BBSdb
+K10210,BBSdb
+K10211,BBSdb
+K10227,abc_transporters
+K10228,abc_transporters
+K10229,abc_transporters
+K10232,abc_transporters
+K10233,abc_transporters
+K10234,abc_transporters
+K10235,abc_transporters
+K10236,abc_transporters
+K10237,abc_transporters
+K10238,abc_transporters
+K10240,abc_transporters
+K10241,abc_transporters
+K10242,abc_transporters
+K10255,two_component_system
+K10439,abc_transporters
+K10439,chemotaxis
+K10440,abc_transporters
+K10441,abc_transporters
+K10537,abc_transporters
+K10538,abc_transporters
+K10539,abc_transporters
+K10540,abc_transporters
+K10540,chemotaxis
+K10541,abc_transporters
+K10542,abc_transporters
+K10543,abc_transporters
+K10544,abc_transporters
+K10545,abc_transporters
+K10546,abc_transporters
+K10547,abc_transporters
+K10548,abc_transporters
+K10549,abc_transporters
+K10550,abc_transporters
+K10551,abc_transporters
+K10552,abc_transporters
+K10553,abc_transporters
+K10554,abc_transporters
+K10555,abc_transporters
+K10555,quorum_sensing
+K10556,abc_transporters; BBSdb
+K10556,quorum_sensing
+K10557,abc_transporters
+K10557,quorum_sensing
+K10558,abc_transporters
+K10558,quorum_sensing
+K10559,abc_transporters
+K10560,abc_transporters
+K10561,abc_transporters
+K10562,abc_transporters
+K10564,flagellar_assembly
+K10565,flagellar_assembly
+K10681,BBSdb; two_component_system
+K10682,BBSdb; two_component_system
+K10697,BBSdb; two_component_system
+K10715,two_component_system; BBSdb
+K10715,quorum_sensing
+K10820,abc_transporters
+K10823,abc_transporters
+K10823,quorum_sensing
+K10824,abc_transporters
+K10829,abc_transporters
+K10830,abc_transporters
+K10831,abc_transporters
+K10850,two_component_system; BBSdb
+K10851,two_component_system
+K10909,two_component_system
+K10909,biofilm_formation; quorum_sensing
+K10910,two_component_system
+K10910,biofilm_formation; quorum_sensing
+K10911,two_component_system; BBSdb
+K10911,biofilm_formation; quorum_sensing
+K10912,two_component_system; BBSdb
+K10912,biofilm_formation; quorum_sensing
+K10913,BBSdb; two_component_system
+K10913,biofilm_formation; quorum_sensing
+K10914,two_component_system
+K10914,biofilm_formation; biofilm_formation; biofilm_formation; quorum_sensing
+K10915,BBSdb
+K10915,biofilm_formation; quorum_sensing
+K10916,two_component_system
+K10916,biofilm_formation; quorum_sensing
+K10917,BBSdb
+K10917,biofilm_formation; quorum_sensing
+K10918,BBSdb
+K10918,biofilm_formation
+K10919,biofilm_formation
+K10920,biofilm_formation
+K10921,biofilm_formation
+K10922,biofilm_formation
+K10923,biofilm_formation
+K10924,BBSdb
+K10924,biofilm_formation
+K10925,biofilm_formation
+K10926,biofilm_formation
+K10927,biofilm_formation
+K10928,biofilm_formation
+K10929,biofilm_formation
+K10930,biofilm_formation
+K10931,biofilm_formation
+K10932,biofilm_formation
+K10933,biofilm_formation
+K10934,biofilm_formation
+K10935,biofilm_formation
+K10936,biofilm_formation
+K10937,biofilm_formation
+K10938,biofilm_formation
+K10939,biofilm_formation
+K10940,biofilm_formation
+K10941,BBSdb; two_component_system
+K10941,biofilm_formation; flagellar_assembly; biofilm_formation
+K10942,two_component_system
+K10942,biofilm_formation
+K10943,two_component_system; BBSdb
+K10943,flagellar_assembly; biofilm_formation
+K10961,biofilm_formation
+K10962,biofilm_formation
+K10963,biofilm_formation
+K10964,biofilm_formation
+K10965,biofilm_formation
+K11004,abc_transporters
+K11006,quorum_sensing
+K11007,quorum_sensing
+K11023,BBSdb
+K11024,BBSdb
+K11031,quorum_sensing
+K11033,quorum_sensing
+K11034,quorum_sensing
+K11035,quorum_sensing
+K11036,quorum_sensing
+K11037,quorum_sensing
+K11039,BBSdb
+K11039,quorum_sensing
+K11050,abc_transporters
+K11051,abc_transporters
+K11060,BBSdb
+K11063,quorum_sensing
+K11065,BBSdb
+K11069,abc_transporters; BBSdb
+K11070,abc_transporters
+K11071,abc_transporters
+K11072,abc_transporters
+K11073,abc_transporters
+K11074,abc_transporters
+K11075,abc_transporters
+K11076,abc_transporters
+K11077,abc_transporters
+K11078,abc_transporters
+K11079,abc_transporters
+K11080,abc_transporters
+K11081,abc_transporters
+K11082,abc_transporters
+K11083,abc_transporters
+K11084,abc_transporters
+K11085,abc_transporters
+K11103,two_component_system
+K11175,BBSdb
+K11210,BBSdb
+K11216,BBSdb
+K11216,quorum_sensing
+K11230,two_component_system
+K11231,two_component_system
+K11232,two_component_system
+K11233,two_component_system
+K11264,BBSdb
+K11326,two_component_system
+K11327,two_component_system
+K11328,BBSdb; two_component_system
+K11329,BBSdb; two_component_system
+K11330,BBSdb; two_component_system
+K11331,two_component_system
+K11332,BBSdb; two_component_system
+K11354,two_component_system
+K11355,two_component_system
+K11356,two_component_system
+K11357,two_component_system
+K11382,two_component_system
+K11383,BBSdb; two_component_system
+K11384,BBSdb; two_component_system
+K11443,two_component_system
+K11444,BBSdb; two_component_system
+K11444,biofilm_formation
+K11520,BBSdb; two_component_system
+K11521,BBSdb; two_component_system
+K11522,two_component_system
+K11523,two_component_system
+K11524,two_component_system
+K11525,two_component_system
+K11526,two_component_system
+K11528,BBSdb
+K11530,BBSdb
+K11530,quorum_sensing
+K11531,biofilm_formation; quorum_sensing
+K11601,abc_transporters; two_component_system
+K11602,abc_transporters; two_component_system
+K11603,abc_transporters; two_component_system
+K11604,abc_transporters
+K11605,abc_transporters
+K11606,abc_transporters
+K11607,abc_transporters
+K11614,two_component_system
+K11615,two_component_system
+K11616,two_component_system
+K11617,two_component_system
+K11618,two_component_system
+K11619,two_component_system
+K11620,two_component_system
+K11621,two_component_system
+K11622,two_component_system
+K11623,two_component_system
+K11624,two_component_system
+K11625,two_component_system
+K11626,two_component_system
+K11629,BBSdb; two_component_system
+K11630,BBSdb; two_component_system
+K11631,abc_transporters; two_component_system
+K11632,abc_transporters; two_component_system
+K11633,BBSdb; two_component_system
+K11634,BBSdb; two_component_system
+K11635,two_component_system
+K11636,two_component_system
+K11637,two_component_system
+K11638,two_component_system
+K11639,two_component_system
+K11640,two_component_system
+K11641,two_component_system
+K11688,two_component_system
+K11689,two_component_system
+K11690,two_component_system
+K11691,two_component_system
+K11692,two_component_system; BBSdb
+K11693,BBSdb
+K11694,BBSdb
+K11695,BBSdb
+K11704,abc_transporters
+K11705,abc_transporters
+K11706,abc_transporters
+K11707,abc_transporters
+K11708,abc_transporters
+K11709,abc_transporters
+K11710,abc_transporters
+K11711,two_component_system
+K11712,two_component_system; BBSdb
+K11720,abc_transporters
+K11739,BBSdb
+K11744,BBSdb
+K11752,quorum_sensing
+K11890,biofilm_formation
+K11891,biofilm_formation
+K11893,biofilm_formation
+K11895,biofilm_formation
+K11900,biofilm_formation
+K11901,biofilm_formation
+K11902,biofilm_formation
+K11903,BBSdb
+K11903,biofilm_formation
+K11904,BBSdb
+K11906,BBSdb
+K11907,biofilm_formation
+K11912,biofilm_formation
+K11913,biofilm_formation
+K11915,biofilm_formation
+K11928,BBSdb
+K11931,BBSdb
+K11931,biofilm_formation
+K11935,BBSdb
+K11935,biofilm_formation
+K11936,polysac_eps; BBSdb
+K11936,biofilm_formation
+K11937,polysac_eps; BBSdb
+K11937,biofilm_formation
+K11950,abc_transporters
+K11951,abc_transporters
+K11952,abc_transporters
+K11953,abc_transporters
+K11954,abc_transporters
+K11955,abc_transporters
+K11956,abc_transporters
+K11957,abc_transporters
+K11958,abc_transporters
+K11959,abc_transporters
+K11960,abc_transporters
+K11961,abc_transporters
+K11962,abc_transporters
+K11963,abc_transporters
+K12132,BBSdb
+K12138,BBSdb
+K12148,BBSdb
+K12151,BBSdb
+K12239,BBSdb
+K12257,quorum_sensing
+K12276,biofilm_formation
+K12292,abc_transporters; two_component_system
+K12292,quorum_sensing
+K12293,two_component_system
+K12293,quorum_sensing
+K12294,two_component_system
+K12294,quorum_sensing
+K12295,two_component_system
+K12295,quorum_sensing
+K12296,two_component_system
+K12296,quorum_sensing
+K12340,BBSdb; two_component_system
+K12368,abc_transporters
+K12368,chemotaxis
+K12369,abc_transporters
+K12370,abc_transporters
+K12371,abc_transporters
+K12372,abc_transporters
+K12410,BBSdb
+K12415,two_component_system; BBSdb
+K12415,quorum_sensing
+K12503,BBSdb
+K12510,two_component_system
+K12511,BBSdb; two_component_system
+K12522,BBSdb
+K12530,two_component_system
+K12531,two_component_system
+K12532,two_component_system
+K12536,abc_transporters
+K12541,abc_transporters
+K12545,BBSdb
+K12582,polysac_eps
+K12678,BBSdb
+K12684,BBSdb
+K12686,BBSdb
+K12687,biofilm_formation
+K12689,BBSdb
+K12787,BBSdb
+K12789,quorum_sensing
+K12952,BBSdb
+K12990,biofilm_formation; quorum_sensing
+K12992,BBSdb
+K13040,two_component_system
+K13041,two_component_system
+K13043,BBSdb
+K13060,BBSdb
+K13060,biofilm_formation; quorum_sensing
+K13061,two_component_system; BBSdb
+K13061,biofilm_formation; quorum_sensing
+K13062,BBSdb
+K13062,quorum_sensing
+K13063,quorum_sensing
+K13075,quorum_sensing
+K13246,biofilm_formation
+K13280,BBSdb
+K13292,BBSdb
+K13409,abc_transporters
+K13486,two_component_system; BBSdb
+K13487,two_component_system
+K13487,biofilm_formation
+K13488,two_component_system
+K13488,biofilm_formation
+K13489,two_component_system
+K13489,biofilm_formation
+K13490,two_component_system
+K13490,biofilm_formation
+K13491,two_component_system
+K13491,biofilm_formation
+K13532,BBSdb; two_component_system
+K13533,BBSdb; two_component_system
+K13584,two_component_system
+K13587,two_component_system
+K13588,two_component_system
+K13589,two_component_system
+K13592,BBSdb
+K13598,BBSdb; two_component_system
+K13599,BBSdb; two_component_system
+K13615,BBSdb
+K13634,BBSdb
+K13643,BBSdb
+K13650,BBSdb
+K13651,BBSdb
+K13654,BBSdb
+K13655,BBSdb
+K13656,polysac_eps; BBSdb
+K13657,polysac_eps; BBSdb
+K13658,polysac_eps
+K13659,polysac_eps
+K13660,polysac_eps
+K13663,polysac_eps; BBSdb
+K13664,polysac_eps
+K13665,polysac_eps
+K13683,polysac_eps
+K13684,polysac_eps
+K13688,BBSdb
+K13714,BBSdb
+K13732,BBSdb
+K13733,BBSdb
+K13735,BBSdb
+K13747,BBSdb
+K13798,BBSdb
+K13815,two_component_system; BBSdb
+K13815,quorum_sensing
+K13816,two_component_system
+K13816,quorum_sensing
+K13820,flagellar_assembly
+K13853,BBSdb
+K13874,BBSdb
+K13889,abc_transporters
+K13890,abc_transporters
+K13891,abc_transporters
+K13892,abc_transporters
+K13893,abc_transporters
+K13894,abc_transporters
+K13895,abc_transporters
+K13896,abc_transporters
+K13924,two_component_system
+K13924,chemotaxis
+K13927,two_component_system
+K13979,BBSdb
+K13991,two_component_system
+K13994,two_component_system
+K14051,BBSdb
+K14051,biofilm_formation; quorum_sensing
+K14055,BBSdb
+K14098,BBSdb
+K14164,BBSdb
+K14187,BBSdb
+K14188,two_component_system; BBSdb
+K14192,BBSdb
+K14195,BBSdb
+K14196,BBSdb
+K14200,BBSdb
+K14201,BBSdb
+K14204,BBSdb
+K14205,two_component_system; BBSdb
+K14645,quorum_sensing
+K14652,BBSdb
+K14698,abc_transporters
+K14699,abc_transporters
+K14978,two_component_system
+K14979,two_component_system
+K14980,BBSdb; two_component_system
+K14981,BBSdb; two_component_system
+K14982,BBSdb; two_component_system
+K14982,quorum_sensing
+K14983,BBSdb; two_component_system
+K14983,quorum_sensing
+K14986,two_component_system
+K14987,two_component_system
+K14988,two_component_system
+K14989,two_component_system
+K15011,two_component_system
+K15012,two_component_system
+K15051,BBSdb
+K15495,abc_transporters
+K15496,abc_transporters
+K15497,abc_transporters
+K15521,BBSdb
+K15540,BBSdb
+K15551,abc_transporters
+K15552,abc_transporters
+K15553,abc_transporters
+K15554,abc_transporters
+K15555,abc_transporters
+K15556,abc_transporters
+K15557,abc_transporters
+K15558,abc_transporters
+K15576,abc_transporters
+K15577,abc_transporters
+K15578,abc_transporters
+K15579,abc_transporters
+K15580,BBSdb; abc_transporters
+K15580,quorum_sensing
+K15581,abc_transporters
+K15581,quorum_sensing
+K15582,abc_transporters
+K15582,quorum_sensing
+K15583,abc_transporters
+K15583,quorum_sensing
+K15584,abc_transporters
+K15585,abc_transporters
+K15586,abc_transporters
+K15587,abc_transporters; BBSdb
+K15598,abc_transporters
+K15599,abc_transporters
+K15600,abc_transporters
+K15628,abc_transporters
+K15633,BBSdb
+K15654,quorum_sensing
+K15655,quorum_sensing
+K15656,quorum_sensing
+K15657,quorum_sensing
+K15739,two_component_system
+K15770,abc_transporters
+K15771,abc_transporters
+K15772,abc_transporters
+K15773,BBSdb
+K15841,two_component_system
+K15850,two_component_system
+K15850,quorum_sensing
+K15851,two_component_system
+K15851,biofilm_formation; quorum_sensing
+K15852,BBSdb
+K15852,quorum_sensing
+K15853,two_component_system
+K15853,quorum_sensing
+K15854,two_component_system
+K15854,quorum_sensing
+K15859,two_component_system
+K15860,two_component_system
+K15861,two_component_system
+K15862,two_component_system
+K15864,BBSdb
+K15888,BBSdb
+K15986,BBSdb
+K16011,BBSdb
+K16011,biofilm_formation
+K16012,abc_transporters
+K16013,abc_transporters
+K16014,abc_transporters
+K16091,BBSdb
+K16199,abc_transporters
+K16200,abc_transporters
+K16201,abc_transporters
+K16202,abc_transporters
+K16440,BBSdb
+K16444,BBSdb
+K16509,BBSdb
+K16554,biofilm_formation
+K16555,polysac_eps
+K16556,polysac_eps
+K16557,polysac_eps
+K16558,polysac_eps
+K16560,polysac_eps
+K16562,polysac_eps
+K16563,polysac_eps
+K16564,polysac_eps
+K16566,polysac_eps
+K16568,polysac_eps
+K16619,quorum_sensing
+K16692,two_component_system
+K16700,BBSdb; polysac_eps
+K16701,polysac_eps
+K16702,polysac_eps
+K16703,polysac_eps
+K16707,polysac_eps
+K16710,polysac_eps
+K16712,two_component_system; BBSdb
+K16713,two_component_system; BBSdb
+K16783,abc_transporters
+K16784,abc_transporters
+K16785,abc_transporters
+K16786,abc_transporters
+K16787,abc_transporters; BBSdb
+K16844,BBSdb
+K16898,BBSdb
+K16899,BBSdb
+K16905,abc_transporters
+K16906,abc_transporters
+K16907,abc_transporters
+K16915,abc_transporters
+K16916,abc_transporters
+K16917,abc_transporters
+K16918,abc_transporters
+K16919,abc_transporters
+K16920,abc_transporters
+K16921,abc_transporters
+K16956,abc_transporters
+K16957,abc_transporters
+K16958,abc_transporters
+K16959,abc_transporters
+K16960,abc_transporters
+K16961,abc_transporters
+K16962,abc_transporters
+K16963,abc_transporters
+K17060,two_component_system
+K17061,two_component_system
+K17062,abc_transporters
+K17063,abc_transporters
+K17073,abc_transporters
+K17074,abc_transporters
+K17076,abc_transporters
+K17077,abc_transporters
+K17202,abc_transporters
+K17203,abc_transporters
+K17204,abc_transporters
+K17205,abc_transporters
+K17206,abc_transporters
+K17207,abc_transporters
+K17208,BBSdb; abc_transporters
+K17209,abc_transporters
+K17210,abc_transporters
+K17213,abc_transporters
+K17214,abc_transporters
+K17215,abc_transporters
+K17234,abc_transporters
+K17235,abc_transporters
+K17236,abc_transporters
+K17237,abc_transporters
+K17238,abc_transporters
+K17239,abc_transporters
+K17240,abc_transporters
+K17241,abc_transporters
+K17242,abc_transporters
+K17243,abc_transporters
+K17244,abc_transporters
+K17245,abc_transporters
+K17246,abc_transporters
+K17311,abc_transporters
+K17312,abc_transporters
+K17313,abc_transporters
+K17314,abc_transporters
+K17315,abc_transporters
+K17316,abc_transporters
+K17317,abc_transporters
+K17318,abc_transporters
+K17319,abc_transporters
+K17320,abc_transporters
+K17321,abc_transporters
+K17322,abc_transporters
+K17323,abc_transporters
+K17324,abc_transporters
+K17325,abc_transporters
+K17326,abc_transporters
+K17327,abc_transporters
+K17328,abc_transporters
+K17329,abc_transporters
+K17330,abc_transporters
+K17331,abc_transporters
+K17686,BBSdb
+K17831,BBSdb
+K17850,BBSdb
+K17940,biofilm_formation; quorum_sensing
+K18000,BBSdb
+K18000,biofilm_formation; quorum_sensing
+K18001,BBSdb
+K18001,biofilm_formation; quorum_sensing
+K18002,BBSdb
+K18002,biofilm_formation; quorum_sensing
+K18003,BBSdb
+K18003,biofilm_formation; quorum_sensing
+K18072,BBSdb; two_component_system
+K18073,BBSdb; two_component_system
+K18093,BBSdb; two_component_system
+K18094,two_component_system
+K18095,two_component_system
+K18096,quorum_sensing
+K18098,quorum_sensing
+K18099,BBSdb
+K18099,biofilm_formation; quorum_sensing
+K18100,biofilm_formation; quorum_sensing
+K18101,biofilm_formation; quorum_sensing
+K18104,abc_transporters
+K18115,BBSdb
+K18119,BBSdb
+K18138,BBSdb
+K18139,quorum_sensing
+K18143,BBSdb
+K18144,BBSdb
+K18216,abc_transporters
+K18217,abc_transporters
+K18223,BBSdb
+K18230,abc_transporters; BBSdb
+K18231,abc_transporters
+K18232,abc_transporters
+K18233,abc_transporters
+K18304,biofilm_formation; quorum_sensing
+K18306,quorum_sensing
+K18307,quorum_sensing
+K18315,quorum_sensing
+K18316,BBSdb
+K18316,quorum_sensing
+K18317,BBSdb
+K18317,quorum_sensing
+K18318,quorum_sensing
+K18319,quorum_sensing
+K18321,two_component_system
+K18322,two_component_system
+K18323,two_component_system
+K18324,two_component_system
+K18326,two_component_system
+K18344,BBSdb; two_component_system
+K18345,BBSdb; two_component_system
+K18346,two_component_system
+K18347,two_component_system
+K18348,BBSdb; two_component_system
+K18349,BBSdb; two_component_system
+K18350,BBSdb; two_component_system
+K18351,BBSdb; two_component_system
+K18352,BBSdb; two_component_system
+K18353,two_component_system
+K18354,two_component_system
+K18360,BBSdb
+K18444,two_component_system
+K18502,biofilm_formation
+K18504,biofilm_formation
+K18509,biofilm_formation
+K18515,biofilm_formation; biofilm_formation
+K18516,biofilm_formation
+K18518,biofilm_formation
+K18521,biofilm_formation
+K18522,biofilm_formation
+K18523,biofilm_formation
+K18528,biofilm_formation
+K18682,BBSdb
+K18765,BBSdb
+K18843,BBSdb
+K18851,BBSdb
+K18856,two_component_system
+K18866,two_component_system
+K18887,abc_transporters
+K18888,abc_transporters
+K18889,abc_transporters
+K18890,abc_transporters
+K18891,abc_transporters
+K18892,abc_transporters
+K18893,abc_transporters
+K18894,abc_transporters
+K18895,abc_transporters
+K18906,BBSdb
+K18907,BBSdb
+K18918,BBSdb
+K18926,BBSdb
+K18940,BBSdb; two_component_system
+K18941,BBSdb; two_component_system
+K18968,biofilm_formation
+K18986,BBSdb; two_component_system
+K18987,BBSdb; two_component_system
+K18991,BBSdb
+K19005,BBSdb
+K19065,BBSdb
+K19077,BBSdb; two_component_system
+K19078,BBSdb; two_component_system
+K19079,abc_transporters; two_component_system
+K19080,abc_transporters; two_component_system
+K19081,BBSdb; two_component_system
+K19082,BBSdb; two_component_system
+K19083,abc_transporters; two_component_system
+K19084,abc_transporters; two_component_system
+K19108,BBSdb
+K19128,BBSdb
+K19129,BBSdb
+K19130,BBSdb
+K19157,BBSdb
+K19158,BBSdb
+K19162,BBSdb
+K19163,BBSdb
+K19164,BBSdb
+K19166,BBSdb
+K19226,abc_transporters
+K19227,abc_transporters
+K19228,abc_transporters
+K19229,abc_transporters
+K19230,abc_transporters
+K19290,polysac_eps
+K19291,polysac_eps; BBSdb
+K19291,biofilm_formation
+K19293,polysac_eps; BBSdb
+K19294,polysac_eps; BBSdb
+K19295,polysac_eps
+K19296,polysac_eps
+K19309,abc_transporters
+K19310,abc_transporters
+K19334,BBSdb
+K19335,BBSdb
+K19336,BBSdb
+K19340,abc_transporters
+K19341,abc_transporters
+K19349,abc_transporters
+K19350,abc_transporters
+K19370,BBSdb
+K19371,BBSdb
+K19372,BBSdb
+K19373,BBSdb
+K19374,BBSdb
+K19405,BBSdb
+K19417,BBSdb
+K19418,BBSdb
+K19419,BBSdb
+K19420,BBSdb
+K19421,BBSdb
+K19422,BBSdb
+K19423,BBSdb
+K19424,BBSdb
+K19425,BBSdb
+K19426,BBSdb
+K19427,BBSdb
+K19428,BBSdb
+K19429,BBSdb
+K19430,BBSdb
+K19431,BBSdb
+K19432,BBSdb
+K19433,BBSdb
+K19449,BBSdb
+K19609,BBSdb; two_component_system
+K19610,BBSdb; two_component_system
+K19611,two_component_system
+K19615,two_component_system
+K19616,two_component_system
+K19617,two_component_system
+K19618,two_component_system
+K19620,two_component_system
+K19621,two_component_system
+K19622,two_component_system
+K19624,two_component_system
+K19641,BBSdb; two_component_system
+K19661,BBSdb; two_component_system
+K19664,BBSdb
+K19666,two_component_system
+K19666,quorum_sensing
+K19667,two_component_system
+K19668,two_component_system
+K19688,BBSdb
+K19690,two_component_system
+K19691,two_component_system
+K19692,two_component_system
+K19731,quorum_sensing
+K19732,quorum_sensing
+K19733,BBSdb
+K19733,quorum_sensing
+K19734,quorum_sensing
+K19735,biofilm_formation; quorum_sensing
+K19746,BBSdb
+K19802,BBSdb
+K19883,BBSdb
+K19971,abc_transporters
+K19972,abc_transporters
+K19973,abc_transporters
+K19975,abc_transporters
+K19976,abc_transporters
+K20074,BBSdb
+K20086,quorum_sensing
+K20087,quorum_sensing
+K20088,quorum_sensing
+K20089,quorum_sensing
+K20090,quorum_sensing
+K20113,BBSdb
+K20118,BBSdb
+K20248,quorum_sensing
+K20249,quorum_sensing
+K20250,quorum_sensing
+K20252,quorum_sensing
+K20253,quorum_sensing
+K20256,quorum_sensing
+K20257,BBSdb
+K20257,biofilm_formation; quorum_sensing
+K20258,biofilm_formation; quorum_sensing
+K20259,biofilm_formation; quorum_sensing
+K20260,quorum_sensing
+K20261,quorum_sensing
+K20262,quorum_sensing
+K20263,two_component_system
+K20263,quorum_sensing
+K20264,two_component_system
+K20264,quorum_sensing
+K20265,quorum_sensing
+K20266,quorum_sensing
+K20267,quorum_sensing
+K20268,quorum_sensing
+K20269,quorum_sensing
+K20270,quorum_sensing
+K20271,quorum_sensing
+K20272,quorum_sensing
+K20273,quorum_sensing
+K20274,quorum_sensing
+K20275,BBSdb
+K20275,quorum_sensing
+K20276,quorum_sensing
+K20277,quorum_sensing
+K20321,quorum_sensing
+K20322,quorum_sensing
+K20323,quorum_sensing
+K20324,quorum_sensing
+K20325,quorum_sensing
+K20326,BBSdb
+K20326,quorum_sensing
+K20327,BBSdb
+K20327,quorum_sensing
+K20328,BBSdb
+K20328,quorum_sensing
+K20329,quorum_sensing
+K20330,quorum_sensing
+K20331,quorum_sensing
+K20332,quorum_sensing
+K20333,quorum_sensing
+K20334,quorum_sensing
+K20335,quorum_sensing
+K20336,BBSdb
+K20336,quorum_sensing
+K20337,quorum_sensing
+K20338,quorum_sensing
+K20339,two_component_system
+K20339,quorum_sensing
+K20340,two_component_system
+K20340,quorum_sensing
+K20341,quorum_sensing
+K20342,quorum_sensing
+K20343,quorum_sensing
+K20344,abc_transporters
+K20344,quorum_sensing
+K20345,quorum_sensing
+K20373,quorum_sensing
+K20374,quorum_sensing
+K20375,quorum_sensing
+K20376,quorum_sensing
+K20377,quorum_sensing
+K20378,quorum_sensing
+K20379,quorum_sensing
+K20380,quorum_sensing
+K20381,quorum_sensing
+K20382,quorum_sensing
+K20383,quorum_sensing
+K20384,quorum_sensing
+K20385,quorum_sensing
+K20386,abc_transporters
+K20386,quorum_sensing
+K20387,quorum_sensing
+K20388,quorum_sensing
+K20389,quorum_sensing
+K20390,quorum_sensing
+K20391,quorum_sensing
+K20459,abc_transporters
+K20460,abc_transporters
+K20461,abc_transporters
+K20466,BBSdb
+K20480,quorum_sensing
+K20481,quorum_sensing
+K20482,two_component_system
+K20482,quorum_sensing
+K20483,two_component_system
+K20483,quorum_sensing
+K20484,two_component_system
+K20484,quorum_sensing
+K20485,two_component_system
+K20485,quorum_sensing
+K20486,two_component_system
+K20486,quorum_sensing
+K20487,BBSdb; two_component_system
+K20487,quorum_sensing
+K20488,BBSdb; two_component_system
+K20488,quorum_sensing
+K20489,two_component_system
+K20489,quorum_sensing
+K20490,abc_transporters; two_component_system
+K20490,quorum_sensing
+K20491,abc_transporters; two_component_system
+K20491,quorum_sensing
+K20492,abc_transporters; two_component_system
+K20492,quorum_sensing
+K20494,abc_transporters; two_component_system
+K20494,quorum_sensing
+K20527,quorum_sensing
+K20528,quorum_sensing
+K20529,quorum_sensing
+K20530,quorum_sensing
+K20531,quorum_sensing
+K20532,quorum_sensing
+K20533,quorum_sensing
+K20539,quorum_sensing
+K20540,quorum_sensing
+K20541,BBSdb
+K20543,BBSdb
+K20552,two_component_system
+K20552,quorum_sensing
+K20554,quorum_sensing
+K20555,quorum_sensing
+K20608,BBSdb
+K20712,BBSdb
+K20801,BBSdb
+K20918,biofilm_formation
+K20919,biofilm_formation
+K20920,biofilm_formation
+K20921,polysac_eps; BBSdb
+K20921,biofilm_formation
+K20922,polysac_eps
+K20922,biofilm_formation
+K20945,biofilm_formation
+K20946,biofilm_formation
+K20947,biofilm_formation
+K20948,biofilm_formation
+K20949,biofilm_formation
+K20950,biofilm_formation
+K20951,biofilm_formation
+K20952,biofilm_formation
+K20953,biofilm_formation
+K20954,biofilm_formation
+K20955,biofilm_formation
+K20956,biofilm_formation
+K20957,biofilm_formation
+K20958,biofilm_formation
+K20959,biofilm_formation
+K20960,biofilm_formation
+K20961,biofilm_formation
+K20962,biofilm_formation
+K20963,biofilm_formation
+K20964,BBSdb
+K20964,biofilm_formation
+K20965,biofilm_formation
+K20966,BBSdb
+K20966,biofilm_formation
+K20968,biofilm_formation
+K20969,biofilm_formation
+K20970,biofilm_formation
+K20971,BBSdb
+K20971,biofilm_formation
+K20972,biofilm_formation
+K20973,two_component_system
+K20973,biofilm_formation
+K20974,two_component_system
+K20974,biofilm_formation
+K20975,two_component_system
+K20975,biofilm_formation
+K20976,two_component_system; BBSdb
+K20976,biofilm_formation
+K20977,two_component_system
+K20977,biofilm_formation
+K20978,two_component_system
+K20978,biofilm_formation
+K20987,BBSdb
+K20987,biofilm_formation
+K20988,biofilm_formation
+K20997,polysac_eps
+K20997,biofilm_formation
+K20998,biofilm_formation
+K20999,polysac_eps
+K20999,biofilm_formation
+K21000,BBSdb
+K21000,biofilm_formation
+K21001,polysac_eps
+K21001,biofilm_formation
+K21002,polysac_eps
+K21002,biofilm_formation
+K21003,biofilm_formation
+K21004,biofilm_formation
+K21005,biofilm_formation
+K21006,BBSdb
+K21006,biofilm_formation
+K21007,BBSdb
+K21007,biofilm_formation
+K21008,biofilm_formation
+K21009,biofilm_formation
+K21010,biofilm_formation
+K21011,biofilm_formation
+K21012,biofilm_formation
+K21019,biofilm_formation
+K21020,biofilm_formation
+K21021,biofilm_formation
+K21022,biofilm_formation
+K21023,biofilm_formation
+K21024,biofilm_formation
+K21025,biofilm_formation
+K21030,BBSdb
+K21084,biofilm_formation
+K21085,biofilm_formation
+K21086,BBSdb
+K21086,biofilm_formation
+K21087,biofilm_formation
+K21088,biofilm_formation
+K21089,BBSdb
+K21089,biofilm_formation
+K21090,biofilm_formation
+K21091,biofilm_formation
+K21103,BBSdb
+K21154,polysac_eps
+K21217,flagellar_assembly
+K21218,flagellar_assembly
+K21301,BBSdb
+K21393,two_component_system; BBSdb
+K21416,BBSdb
+K21449,BBSdb
+K21453,BBSdb
+K21461,polysac_eps; BBSdb
+K21462,BBSdb
+K21463,BBSdb
+K21467,BBSdb
+K21472,BBSdb
+K21478,BBSdb
+K21560,BBSdb
+K21562,BBSdb
+K21603,BBSdb
+K21689,BBSdb
+K21817,BBSdb
+K21827,BBSdb
+K21828,BBSdb
+K21900,BBSdb
+K21901,BBSdb
+K21963,BBSdb
+K21964,BBSdb
+K21965,BBSdb
+K21966,BBSdb
+K21967,BBSdb
+K21968,BBSdb
+K21972,BBSdb
+K21974,BBSdb
+K21975,BBSdb
+K21976,BBSdb
+K22136,BBSdb
+K22185,BBSdb
+K22228,BBSdb
+K22297,BBSdb
+K22409,BBSdb
+K22445,BBSdb
+K22491,BBSdb
+K22501,two_component_system
+K22580,BBSdb
+K22693,BBSdb
+K22710,BBSdb
+K22720,BBSdb
+K22921,abc_transporters
+K22922,abc_transporters
+K22923,abc_transporters
+K22954,quorum_sensing
+K22955,quorum_sensing
+K22956,quorum_sensing
+K22957,quorum_sensing
+K22968,BBSdb
+K22968,quorum_sensing
+K23018,BBSdb
+K23055,abc_transporters
+K23056,abc_transporters
+K23057,abc_transporters
+K23058,abc_transporters
+K23059,abc_transporters
+K23060,abc_transporters
+K23061,abc_transporters
+K23062,abc_transporters
+K23063,abc_transporters
+K23064,abc_transporters
+K23095,BBSdb
+K23125,abc_transporters
+K23127,BBSdb
+K23127,biofilm_formation
+K23133,BBSdb
+K23133,quorum_sensing
+K23163,abc_transporters
+K23181,abc_transporters
+K23182,abc_transporters
+K23183,abc_transporters
+K23184,abc_transporters
+K23185,abc_transporters
+K23186,abc_transporters
+K23187,abc_transporters
+K23188,abc_transporters
+K23227,abc_transporters
+K23228,abc_transporters
+K23236,two_component_system
+K23255,BBSdb
+K23259,BBSdb
+K23265,BBSdb
+K23269,BBSdb
+K23304,BBSdb
+K23356,BBSdb
+K23508,abc_transporters
+K23509,abc_transporters
+K23510,abc_transporters
+K23511,abc_transporters
+K23512,abc_transporters
+K23513,abc_transporters
+K23514,two_component_system
+K23518,BBSdb
+K23535,abc_transporters
+K23536,abc_transporters
+K23537,abc_transporters
+K23545,abc_transporters
+K23546,abc_transporters
+K23547,abc_transporters
+K23548,two_component_system
+K23549,two_component_system
+K23597,BBSdb
+K23676,two_component_system
+K23748,BBSdb
+K23778,BBSdb
+K23944,BBSdb
+K23945,BBSdb
+K23973,BBSdb
+K24084,BBSdb
+K24119,BBSdb
+K24126,BBSdb
+K24343,flagellar_assembly
+K24344,flagellar_assembly
+K24346,flagellar_assembly
+K24648,BBSdb
+K24821,abc_transporters
+K25033,BBSdb
+K25114,BBSdb
+K25118,BBSdb
+K25121,BBSdb
+K25142,BBSdb
+K25143,BBSdb
+K25144,BBSdb
+K25205,polysac_eps
+K25205,biofilm_formation
+K25211,two_component_system
+K25212,two_component_system; BBSdb
+K25213,two_component_system
+K25286,abc_transporters
+K25287,abc_transporters
+K25290,BBSdb
+K25307,two_component_system
+K25590,BBSdb
+K25670,BBSdb
+K25819,abc_transporters
+K25864,two_component_system
+K25866,BBSdb
+K25873,quorum_sensing
+K25875,polysac_eps
+K25886,polysac_eps
+K25886,biofilm_formation
+K25887,polysac_eps
+K25888,polysac_eps
+K25889,polysac_eps
+K25890,polysac_eps
+K25891,polysac_eps
+K25892,polysac_eps
+K25902,polysac_eps
+K25903,polysac_eps
+K25904,polysac_eps
+K25905,polysac_eps
+K25906,polysac_eps
+K25907,polysac_eps
+K25908,polysac_eps
+K25909,polysac_eps
+K25910,polysac_eps
+K25911,polysac_eps
+K25912,polysac_eps
+K25913,polysac_eps
+K25957,polysac_eps
+K25958,polysac_eps
+K26049,BBSdb
+K26081,BBSdb
+K26083,BBSdb
+K26272,BBSdb
+K26285,BBSdb
+K26818,BBSdb
+K26912,BBSdb
+K27041,BBSdb
+K27076,two_component_system; BBSdb
+K27077,two_component_system; BBSdb
+K27078,two_component_system
+K27079,two_component_system
+K27080,two_component_system
+K27105,two_component_system
+K27185,BBSdb
+K27343,BBSdb
+K27681,BBSdb
+K27802,BBSdb
+K27882,two_component_system
+K27883,two_component_system
+K27884,two_component_system
+K27885,two_component_system
+K28181,BBSdb
+K28192,BBSdb
+K28349,BBSdb
