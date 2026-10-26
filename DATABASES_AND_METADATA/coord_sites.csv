@@ -1,0 +1,21 @@
+siteID,domainID,siteName,Area,Latitude,Longitude,Type,Tot_samples,Final_samples
+ABBY,D16,Abby Road,Pacific_northwest,45.76244,-122.33032,Washington,3,2
+BARR,D18,Utqiagvik,Tundra,71.28241,-156.61936,Alaska,9,9
+BART,D01,Bartlett Experimental Forest,Northeast,44.06389,-71.28737,New_Hampshire,10,10
+CLBJ,D11,Lyndon B. Johnson National Grassland,Southern_plains,33.40123,-97.57,Texas,1,1
+DEJU,D19,Delta Junction,Taiga,63.88112,-145.75136,Alaska,10,9
+DSNY,D03,Disney Wilderness Preserve,Southeast,28.12505,-81.43619,Florida,1,1
+GRSM,D07,Great Smoky Mountains National Park,Appalachians_and_cumberland plateau,35.68896,-83.50195,Tennessee,10,10
+HARV,D01,Harvard Forest & Quabbin Watershed,Northeast,42.53691,-72.17265,Massachusetts,9,8
+HEAL,D19,Healy,Taiga,63.8758,-149.21335,Alaska,10,10
+NIWO,D13,Niwot Ridge,Southern_rockies_and_colorado_plateau,40.05425,-105.58237,Colorado,4,4
+ORNL,D07,Oak Ridge,Appalachians_and_cumberland plateau,35.96413,-84.28259,Tennessee,10,10
+OSBS,D03,Ordway-Swisher Biological Station,Southeast,29.68928,-81.99343,Florida,5,3
+RMNP,D10,Rocky Mountains,Central _plains,40.2759,-105.54596,Colorado,10,10
+SJER,D17,San Joaquin Experimental Range,Pacific_southwest,37.10878,-119.73228,California,2,2
+STEI,D05,Steigerwaldt-Chequamegon,Great_Lakes,45.50894,-89.58637,Wisconsin,2,1
+TALL,D08,Talladega National Forest,Ozarks_complex,32.95047,-87.39326,Alabama,2,2
+TOOL,D18,Toolik Field Station,Tundra,68.66109,-149.37047,Alaska,10,10
+TREE,D05,Treehaven,Great_Lakes,45.49369,-89.58571,Wisconsin,3,3
+UNDE,D05,Univ. of Notre Dame Environmental Research Center,Great_Lakes,46.23391,-89.53725,Michigan,6,6
+WOOD,D09,Chase Lake National Wildlife Refuge,Northerns_plains,47.1282,-99.24133,North_Dakota,2,1
