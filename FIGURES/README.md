@@ -1,1 +1,1 @@
-
+This folder contains all main (Figures 1–4) and supplementary (Figures S1–S16) figures generated for the manuscript using the scripts provided in the `SCRIPTS` folder and the files available in the `DATABASES_AND_METADATA` folder.
